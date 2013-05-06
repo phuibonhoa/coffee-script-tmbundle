@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>$(document).ready -&gt; </string>
+	<string>\$ -&gt;</string>
 	<key>name</key>
 	<string>docready</string>
 	<key>scope</key>
